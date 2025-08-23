@@ -2,7 +2,7 @@
 A gui interface for chatting with my EveréAI model but is compatible with ollama models and can pull them from the internet if needed.
 
 # How To Use
-1. download the following files from the latest release: EvereAISetup.exe, EvereAISetup-1.bin, EvereAISetup-2.bin, and EvereAISetup-3.bin.
+1. download the following files from the latest release: **EvereAISetup.exe**, **EvereAISetup-1.bin**, **EvereAISetup-2.bin**, and **EvereAISetup-3.bin**.
 2. place all the downloaded files in the same folder
 3. run the exe from inside the folder
 4. proceed with the default installation instructions
