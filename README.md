@@ -2,8 +2,14 @@
 A gui interface for chatting with my EveréAI model but is compatible with ollama models and can pull them from the internet if needed.
 
 # How To Use
-Simply install the exe file and then run it. 
-When run, check your windows tray for the app, click it and open the gui.
+1. download the following files from the latest release: EvereAISetup.exe, EvereAISetup-1.bin, EvereAISetup-2.bin, and EvereAISetup-3.bin.
+2. place all the downloaded files in the same folder
+3. run the exe from inside the folder
+4. proceed with the default installation instructions
+5. after the program is installed, run the new app
+6. when run, the app naturally stays inside the windows tray so you can just click the icon and open the program
+7. once the program is open and running, you can either create the default ai model from the ai model file that comes bundled with the program or you can pull a model from ollama using the normal command without the ollama prefix: ex - "pull llama3".
+8. Then create a chat, select your model of choice, and send your first message.
 
 # Pulling Models
 To pull an ollama model for use, simply press the "Pull Models" button to upen up the section where you then can type "pull model" where "model" is the name of whatever ollama model you want. Then click execute and wait for the on screen notification that the model was either pulled successfully or failed. If pulled successfully, you can start talking with it immediately after creating a chat to talk to it in.
